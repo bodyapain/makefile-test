@@ -1,0 +1,5 @@
+﻿  array_input.c
+C:\Users\bodya\source\repos\functions\array_input.c(3,6): error C2040: array_input: "int *(int *,int)" отличается по уровням косвенного обращения от "void (int *,int)"
+  menu.c
+C:\Users\bodya\source\repos\functions\menu.c(11,9): warning C4101: i: неиспользованная локальная переменная
+  Создание кода...
